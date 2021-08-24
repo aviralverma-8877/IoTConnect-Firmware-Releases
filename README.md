@@ -1,3 +1,3 @@
 # IoTConnect-Firmware-Releases
 IoTConnect Firmware Releases
-Latest Verion : 2.1.9
+Latest Verion : 2.2.0
